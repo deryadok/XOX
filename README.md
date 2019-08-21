@@ -1,2 +1,2 @@
 # XOX
-React'e giriş
+React'e giriş XOX oyunu
